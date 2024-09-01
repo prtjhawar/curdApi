@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "cotten sarris",
+        "price": 600,
+        "offer price": 450
+    },
+    {
+        "id": 2,
+        "title": "polister sarris",
+        "price": 600,
+        "offer price": 450
+    },
+    {
+        "id": 3,
+        "title": "lilam sarris",
+        "price": 600,
+        "offer price": 450
+    }
+]
